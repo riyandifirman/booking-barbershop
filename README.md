@@ -13,6 +13,7 @@ Ditujukan untuk memenuhi tugas besar mata kuliah Struktur Data dan Algoritma
 - Linked List
 - Queue
 - Tree
+- Graph
 
 ## Team :black_nib:
 - [Farhan](https://github.com/faruzaan/)
