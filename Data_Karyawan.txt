@@ -1,0 +1,4 @@
+1,Farhan,L,20,Cianjur,08456712315,5
+2,Firman,L,18,Bandung,08775125545,3
+3,Lisa,P,19,Bekasi,08318294211,6
+4,Fauzaan,L,20,Solokpandan,088888888,7
