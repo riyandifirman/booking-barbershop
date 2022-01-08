@@ -1,6 +1,6 @@
-# Program Booking Barbershop C++ :computer:
-Program booking barbershop sederhana menggunakan C++ <br>
-Ditujukan untuk memenuhi tugas besar mata kuliah Struktur Data dan Algoritma
+# Barbershop Booking Program C++ :computer:
+Simple barbershop booking program using C++ <br>
+Intended to fulfill the big task of Data Structure and Algorithm course
 
 ## How to Use? :memo:
 1. Save Data_Karyawan.txt and main.cpp at the same folder
